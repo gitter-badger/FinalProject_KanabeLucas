@@ -501,11 +501,14 @@ namespace Eureka
 					Console.WriteLine ("Jessica: 'Where did you learn to do that? Nevermind, doesn't matter.'");
 				}
 
-				Console.WriteLine ("'Let's just out of here. You've obviously got your own agenda I don't want anything to do with it.'");
+				Console.WriteLine ("'Let's just out of here.'");
+				Console.WriteLine ("'You've obviously got your own agenda that I don't want anything to do with it.'");
 				Console.WriteLine ("");
 				Console.WriteLine ("Next");
 				Console.WriteLine ("");
 				Console.ReadKey ();
+				Console.WriteLine ("To be continued...");
+
 						
 
 
