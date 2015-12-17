@@ -1,0 +1,5 @@
+/Users/Lucas/Projects/Eureka/Eureka/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Lucas/Projects/Eureka/Eureka/bin/Debug/Eureka.exe.mdb
+/Users/Lucas/Projects/Eureka/Eureka/bin/Debug/Eureka.exe
+/Users/Lucas/Projects/Eureka/Eureka/obj/x86/Debug/Eureka.exe
+/Users/Lucas/Projects/Eureka/Eureka/obj/x86/Debug/Eureka.exe.mdb
