@@ -508,21 +508,8 @@ namespace Eureka
 				Console.WriteLine ("");
 				Console.ReadKey ();
 				Console.WriteLine ("To be continued...");
-
-						
-
-
-
-
-						
-					
-
-
-
-
-				
-
-
+				Console.WriteLine ("");
+				Console.ReadKey ();
 				gameisrunning = false;
 				if (player1.Health <= 0) {
 					Console.Clear ();
